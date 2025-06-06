@@ -62,7 +62,7 @@ download("meta.csv")
 ## Visualizations with missing meta-data
 
 ```{r}
-if(file.exists(error.csv)){
+if(file.exists("error.csv")){
   error.dt <- myread("error.csv", "viz_owner_repo")
   knitr::kable(error.dt[, .(
     viz.link, repo.link, error

@@ -1,4 +1,7 @@
 add.POSIXct,viz_owner_repo,video,source,title
-2025-06-06T08:42:22.093814Z,tdhock/OP-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Optimal partitioning demo
-2025-06-06T08:42:22.093814Z,tdhock/FL-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Fused Lasso signal approximator demo
-2025-06-06T08:42:22.093814Z,tdhock/SN-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Segment neighborhood demo
+2025-06-06T08:42:22.093814Z,tdhock/OP-demo,"",https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Optimal partitioning demo
+2025-06-06T08:42:22.093814Z,tdhock/FL-demo,"",https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Fused Lasso signal approximator demo
+2025-06-06T08:42:22.093814Z,tdhock/SN-demo,"",https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Segment neighborhood demo
+2025-06-06T08:47:52.620481Z,tdhock/2023-11-interval-regression-differences,"",https://github.com/tdhock/change-tutorial/blob/master/figure-differences-interactive.R,AIC/BIC change-point detection comparison using ROC curves
+2025-06-06T08:47:52.620481Z,nhintruong/breakpoints,"",https://github.com/animint/animint2/blob/4b1049bc1d8ee8dbd78b31f52a5863496fae5931/inst/examples/breakpoints.R,breakpoints select multiple segmentation models
+2025-06-06T08:47:52.620481Z,tdhock/2025-02-03-aum-convexity,https://vimeo.com/1053132517,https://github.com/tdhock/max-generalized-auc/blob/master/figure-aum-convexity-interactive.R,Simple non-monotonic ROC curve

@@ -1,3 +1,10 @@
 tdhock/OP-demo
 tdhock/FL-demo
 tdhock/SN-demo
+tdhock/2023-11-interval-regression-differences
+nhintruong/breakpoints
+tdhock/2024-08-bic-learned-details
+tdhock/2024-07-04-HMM-angular-data
+tdhock/2025-02-03-aum-convexity
+suhaani-agarwal/Demo_Constrained_PDPA
+suhaani-agarwal/intreg-BIC
