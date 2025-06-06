@@ -1,0 +1,4 @@
+add.POSIXct,viz_owner_repo,video,source,title
+2025-06-06T08:22:45.814073Z,tdhock/OP-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Optimal partitioning demo
+2025-06-06T08:22:45.814073Z,tdhock/SN-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Segment neighborhood demo
+2025-06-06T08:26:24.655316Z,tdhock/FL-demo,,https://github.com/tdhock/functional-pruning-theory/blob/master/classic-demos.R,Fused Lasso signal approximator demo
