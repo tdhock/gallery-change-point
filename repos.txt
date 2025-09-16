@@ -8,3 +8,4 @@ tdhock/2024-07-04-HMM-angular-data
 tdhock/2025-02-03-aum-convexity
 suhaani-agarwal/Demo_Constrained_PDPA
 suhaani-agarwal/intreg-BIC
+tdhock/figure-binseg-cv-one-split
