@@ -9,3 +9,4 @@ tdhock/2025-02-03-aum-convexity
 suhaani-agarwal/Demo_Constrained_PDPA
 suhaani-agarwal/intreg-BIC
 tdhock/figure-binseg-cv-one-split
+tdhock/figure-binseg-cv-one-split-duration
